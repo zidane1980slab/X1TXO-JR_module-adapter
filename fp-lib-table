@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DSMX Tx module adapter")(type KiCad)(uri "$(KIPRJMOD)/DSMX Tx module adapter.pretty")(options "")(descr ""))
+)
